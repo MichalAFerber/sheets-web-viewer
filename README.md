@@ -80,6 +80,7 @@ last-saved computed values.
 | --- | --- | --- |
 | [SheetJS (xlsx)](https://sheetjs.com/) | 0.18.5 | Apache-2.0 |
 | [highlight.js](https://github.com/highlightjs/highlight.js) | 11.9.0 | BSD-3-Clause |
+| [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) | subset | OFL-1.1 |
 
 The file-type icon (favicon and header icon) is from
 [vscode-icons](https://github.com/vscode-icons/vscode-icons) (MIT). Analytics by

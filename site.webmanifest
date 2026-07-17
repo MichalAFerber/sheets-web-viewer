@@ -1,0 +1,18 @@
+{
+  "name": "Sheets Viewer",
+  "short_name": "Sheets Viewer",
+  "description": "A fast, single-file spreadsheet viewer. Drop an Excel or OpenDocument workbook (.xlsx, .xls, .ods and more) to explore its sheets as tables \u2014 offline, nothing uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
